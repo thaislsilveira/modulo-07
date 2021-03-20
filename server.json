@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-nike-air-max-motion-2-feminino/64/HZM-2400-064/HZM-2400-064_zoom1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis Nike Air Versitile IV - Preto",
+      "price": 229.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-nike-air-versitile-iv/72/HZM-1827-172/HZM-1827-172_zoom1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Nike Precision III - Branco e Preto",
+      "price": 249.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-nike-precision-iii/28/HZM-1284-028/HZM-1284-028_zoom1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis Nike Precision III - Preto e Laranja",
+      "price": 239.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-nike-precision-iii/72/HZM-1284-172/HZM-1284-172_zoom1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis Nike Court Lite 2 Feminino - Branco e prata",
+      "price": 229.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-nike-court-lite-2-feminino/12/HZM-1860-112/HZM-1860-112_zoom1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Nike Court Lite 2 Feminino - Prata e Azul",
+      "price": 179.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-nike-court-lite-2-feminino/84/HZM-1860-084/HZM-1860-084_zoom1.jpg"
+    }
+  ]
+}
